@@ -60,7 +60,7 @@ The project is structured into the following steps:
 
 ---
 
-##Circuit Diagram
+## Circuit Diagram
 ![image](https://github.com/user-attachments/assets/f979d0ad-3518-44f1-916a-a8d19f3aba92)
 
 
