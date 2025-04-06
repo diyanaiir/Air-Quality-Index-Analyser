@@ -65,4 +65,5 @@ The project is structured into the following steps:
 
 
 ## Physical connections
-![image](https://github.com/user-attachments/assets/d77e71fe-d58d-4958-8085-302f2aabca08)
+![image](https://github.com/user-attachments/assets/8123bc1c-34a4-4094-9c54-94543cea7814)
+
