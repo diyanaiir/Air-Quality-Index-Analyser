@@ -1,4 +1,4 @@
-Air Quality Index Analyzer
+#Air Quality Index Analyzer
 A real-time indoor air quality monitoring system built using the LPC1768 microcontroller and the MQ-135 gas sensor. The project is designed to be low-cost, reliable, and easy to use, displaying the computed AQI on a 16x2 LCD.
 
 Overview
